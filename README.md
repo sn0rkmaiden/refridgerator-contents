@@ -6,4 +6,4 @@ I trained YOLOv5 model on [this](https://blog.roboflow.com/smart-fridge/) datase
 
 ## :iphone: Demo
 
-![demo](https://github.com/sn0rkmaiden/refridgerator-contents/blob/main/app-demo-gif.gif)
+![demo](https://github.com/sn0rkmaiden/refridgerator-contents/blob/main/app-demo-short.gif)
